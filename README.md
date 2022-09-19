@@ -7,6 +7,6 @@ This repository was created to check and configure git functionality on new mach
 * Branch
 * Push
 * Pull / Fetch
+* Merge
 
 ### To do
-* Merge
